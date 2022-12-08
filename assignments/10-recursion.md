@@ -29,7 +29,7 @@
       a = 2, 3, 4
       (2 ^ -31) <= n <= (2 ^ 31) - 1      
 ```
-- [Write a recursive function that returns the factorial of a number.](https://www.hackerrank.com/challenges/30-recursion/problem) `HackerRank`
+- (done)[Write a recursive function that returns the factorial of a number.](https://www.hackerrank.com/challenges/30-recursion/problem) `HackerRank`
 - [Write a recursive function to check whether an array is sorted or not.](https://www.geeksforgeeks.org/program-check-array-sorted-not-iterative-recursive) `GFG`
 - [Number of Steps to Reduce a Number to Zero.](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) `leetcode`
 - [Check for balanced paranthesis using recursion without stack.](https://www.geeksforgeeks.org/check-for-balanced-parenthesis-without-using-stack/) `GFG`
@@ -38,10 +38,10 @@
 - (done)[Power Set of permutations of a string in Lexicographic order.](https://www.geeksforgeeks.org/powet-set-lexicographic-order/) `GFG`
 
 ## Medium
-- [Combination Sum](https://leetcode.com/problems/combination-sum/) `leetcode`
-- [Word Search](https://leetcode.com/problems/word-search/) `leetcode`
+- (done)[Combination Sum](https://leetcode.com/problems/combination-sum/) `leetcode`
+- (done)[Word Search](https://leetcode.com/problems/word-search/) `leetcode`
 - [Target sum](https://leetcode.com/problems/target-sum/) `leetcode`
-- [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) `leetcode`
+- (done)[Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) `leetcode`
 - [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) `leetcode`
 - [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) `leetcode`
 - [N Digit numbers with digits in increasing order](https://practice.geeksforgeeks.org/problems/n-digit-numbers-with-digits-in-increasing-order5903/1/) `GFG`
