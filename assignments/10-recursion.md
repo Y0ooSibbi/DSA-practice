@@ -13,13 +13,13 @@
 - (done)[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) `leetcode`
 - (NotSolved)[Special Fibonacci](https://www.codechef.com/problems/FIBXOR01/) `CodeChef`
 - (done)[Length of string using Recursion](https://www.geeksforgeeks.org/program-for-length-of-a-string-using-recursion/) `GFG`
-- [Geek-onacci Number](https://practice.geeksforgeeks.org/problems/geek-onacci-number/0/) `GFG`
-- [Recursive Bubble Sort](https://www.geeksforgeeks.org/recursive-bubble-sort/) `GFG`
-- [Recursive Insertion Sort](https://www.geeksforgeeks.org/recursive-insertion-sort/) `GFG`
-- [Sum of digit of a number using Recursion](https://www.geeksforgeeks.org/sum-digit-number-using-recursion/) `GFG`
-- [Product of two numbers using Recursion](https://www.geeksforgeeks.org/product-2-numbers-using-recursion/) `GFG`
-- [Check Prime or not](https://www.geeksforgeeks.org/recursive-program-prime-number/) `GFG`
-- [Sum of Natural numbers using Recursion](https://www.geeksforgeeks.org/sum-of-natural-numbers-using-recursion/) `GFG`
+- (done)[Geek-onacci Number](https://practice.geeksforgeeks.org/problems/geek-onacci-number/0/) `GFG`
+- (done)[Recursive Bubble Sort](https://www.geeksforgeeks.org/recursive-bubble-sort/) `GFG`
+- (done)[Recursive Insertion Sort](https://www.geeksforgeeks.org/recursive-insertion-sort/) `GFG`
+- (done)[Sum of digit of a number using Recursion](https://www.geeksforgeeks.org/sum-digit-number-using-recursion/) `GFG`
+- (done)[Product of two numbers using Recursion](https://www.geeksforgeeks.org/product-2-numbers-using-recursion/) `GFG`
+- (done)[Check Prime or not](https://www.geeksforgeeks.org/recursive-program-prime-number/) `GFG`
+- (done)[Sum of Natural numbers using Recursion](https://www.geeksforgeeks.org/sum-of-natural-numbers-using-recursion/) `GFG`
 - (done)[Power of Two](https://leetcode.com/problems/power-of-two/) `leetcode`
 - (done)[Power of Three](https://leetcode.com/problems/power-of-three/) `leetcode`
 - (done)[Power of Four](https://leetcode.com/problems/power-of-four/) `leetcode`
