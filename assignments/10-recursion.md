@@ -45,7 +45,7 @@
 - [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) `leetcode`
 - [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) `leetcode`
 - [N Digit numbers with digits in increasing order](https://practice.geeksforgeeks.org/problems/n-digit-numbers-with-digits-in-increasing-order5903/1/) `GFG`
-- [Pow(x, n)](https://leetcode.com/problems/powx-n/) `leetcode`
+- (done)[Pow(x, n)](https://leetcode.com/problems/powx-n/) `leetcode`
 - [Minimum Non-Zero Product of the Array Elements](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/) `leetcode`
 - [Handshakes](https://practice.geeksforgeeks.org/problems/handshakes1303/1/) `GFG`
 - [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bdifficulty%5D%5B%5D=medium)
