@@ -57,8 +57,8 @@
 - [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) `leetcode`
 - [Predict the winner.](https://leetcode.com/problems/predict-the-winner/) `leetcode`
 - [Gray code](https://practice.geeksforgeeks.org/problems/gray-code-1611215248/1/) `GFG` `Google`
-- [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) `leetcode`
-- [combination Sum III](https://leetcode.com/problems/combination-sum-iii/) `leetcode`
+- (done)[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) `leetcode`
+- (done)[combination Sum III](https://leetcode.com/problems/combination-sum-iii/) `leetcode`
 - [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) `leetcode`
 - (till this I have to finish today)[Letter tile possibilities](https://leetcode.com/problems/letter-tile-possibilities/) `leetcode`
 - [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) `leetcode`
