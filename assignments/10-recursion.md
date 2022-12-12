@@ -52,7 +52,7 @@
 - [Divisible Subset](https://www.codechef.com/problems/DIVSUBS)  `Codechef`
 - (done)[Perfect squares](https://leetcode.com/problems/perfect-squares/)`leetcode`
 - [decode string](https://leetcode.com/problems/decode-string/)`leetcode`
-- [find the winner of the circular game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) `leetcode`
+- (done)[find the winner of the circular game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) `leetcode`
 - (till this one I have to finish)[Different ways to add parantheses in the expression](https://leetcode.com/problems/different-ways-to-add-parentheses/) `leetcode`
 - [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) `leetcode`
 - [Predict the winner.](https://leetcode.com/problems/predict-the-winner/) `leetcode`
