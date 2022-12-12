@@ -43,7 +43,7 @@
 - (done)[Target sum](https://leetcode.com/problems/target-sum/) `leetcode`
 - (done)[Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) `leetcode`
 - (done)[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) `leetcode`
-- [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) `leetcode`
+- (done)[Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) `leetcode`
 - [N Digit numbers with digits in increasing order](https://practice.geeksforgeeks.org/problems/n-digit-numbers-with-digits-in-increasing-order5903/1/) `GFG`
 - (done)[Pow(x, n)](https://leetcode.com/problems/powx-n/) `leetcode`
 - [Minimum Non-Zero Product of the Array Elements](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/) `leetcode`
