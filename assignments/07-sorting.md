@@ -41,7 +41,7 @@
 - [2Sum](https://leetcode.com/problems/two-sum/)
 
 ## Medium
-- [3Sum](https://leetcode.com/problems/3sum/)
+- (Finish)[3Sum](https://leetcode.com/problems/3sum/)
 - [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
 - [4Sum](https://leetcode.com/problems/4sum/)
 - [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
