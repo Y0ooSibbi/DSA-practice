@@ -20,7 +20,7 @@
 - (Finish)[Array Partition I](https://leetcode.com/problems/array-partition-i/)
 - (Finish)[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
 - (Finish)[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
-- [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)
+- (Finish)[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)
 - [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/)
