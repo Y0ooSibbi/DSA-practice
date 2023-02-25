@@ -43,7 +43,7 @@
 ## Medium
 - (Finish)[3Sum](https://leetcode.com/problems/3sum/)
 - (Finish)[3Sum Closest](https://leetcode.com/problems/3sum-closest/)
-- [4Sum](https://leetcode.com/problems/4sum/)
+- (Finish)[4Sum](https://leetcode.com/problems/4sum/)
 - [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 - [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 - [Sort Colors](https://leetcode.com/problems/sort-colors/)
